@@ -22,6 +22,9 @@ Proved 38 of the first 52 theorems in Russell & Whitehead's Principia Mathematic
 
 Source Code has not been transcribed and doesn't appear to be easily available.
 
+*** 
+## GPS
+***
 ### Newell, Simon & Shaw - Chess-Playing Programs and the Problem of Complexity (1958)
 [Paper](./Papers/Newell,%20Shaw,%20Simon%20(1958)%20-%20Chess-Playing%20Programs%20and%20the%20Problem%20of%20Complexity.pdf)
 
