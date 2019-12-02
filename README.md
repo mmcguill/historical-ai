@@ -30,6 +30,10 @@ Source Code has not been transcribed and doesn't appear to be easily available.
 
 Very generic extension of their Logic Theory Machine, separating problem domain from the process of problem solving and introducing concepts like Means End Analysis, Planning, Goals, Sub-Goals and Differences.
 
+A more readable paper with emphasis on the comparison between how GPS works versus human subjects...
+
+[Newell & Simon (1963) - GPS - A Program That Simulates Human Thoughtr](./Papers/Newell%20&%20Simon%20(1963)%20-%20GPS%20-%20A%20Program%20That%20Simulates%20Human%20Thought.pdf)
+
 ### Green, Wolf, Chomsky, Laughery (1961) - BASEBALL - An Automatic Question-Answerer
 [Paper](./Papers/Green,%20Wolf,%20Chomsky,%20Laughery%20(1961)%20-%20BASEBALL%20-%20An%20Automatic%20Question-Answerer.pdf)
 
