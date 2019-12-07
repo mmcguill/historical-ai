@@ -22,6 +22,11 @@ Proved 38 of the first 52 theorems in Russell & Whitehead's Principia Mathematic
 
 Source Code has not been transcribed and doesn't appear to be easily available.
 
+### Minsky (1961) - Steps Toward Artificial Intelligence
+[Paper](Papers/Minsky%20(1961)%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf)
+
+A sort of summary/review article covering the approaches and advances in AI at that time
+
 ## GPS - General Problem Solver
 ### 1958 - Newell, Simon & Shaw - Chess-Playing Programs and the Problem of Complexity
 [Paper](./Papers/Newell,%20Shaw,%20Simon%20(1958)%20-%20Chess-Playing%20Programs%20and%20the%20Problem%20of%20Complexity.pdf)
