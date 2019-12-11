@@ -2,6 +2,8 @@
 # Historical AI
 A repository to collect papers and programs of historical interest to AI. Mostly gathered while reading Pamela McCorduck's Machines Who Think
 
+## Beginnings
+
 ### Turing - Computing Machinery and Intelligence (1950)
 [Paper](./Papers/Turing%20(1950)%20-%20Computing%20Machinery%20and%20Intelligence.pdf)
 
@@ -14,6 +16,9 @@ Claude Shannon's original 1950 paper...
 
 An article in Scientific American. Super readable...
 [Scientific American Article](./Papers/Shannon%20(1950)%20-%20A%20Chess-Playing%20Machine.pdf)
+
+### McCarthy, Minsky, Rochester, Shannon (1955) - A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence
+[Paper](Papers/McCarthy,%20Minsky,%20Rochester,%20Shannon%20(1955)%20-%20A%20Proposal%20for%20the%20Dartmouth%20Summer%20Research%20Project%20on%20Artificial%20Intelligence.pdf)
 
 ### Newell, Simon & Shaw - The Logic Theory Machine (1956)
 [Paper](Papers/Newell%20&%20Simon%20%281956%29%20-%20The%20Logic%20Theory%20Machine.pdf)
@@ -51,8 +56,18 @@ This program could answer questions about baseball (for a specific year) specifi
 
 Hardly mentioned in the paper, which is more of an early analysis (an excellent one) of the difficulties of natural language processing, is SAD SAM which was the name of the program which could examine kinship relations.
 
+### Bobrow (1964) - Natural Language Input for a Computer Problem Solving System (STUDENT)
+[Paper](./Papers/Bobrow%20(1964)%20-%20Natural%20Language%20Input%20for%20a%20Computer%20Problem%20Solving%20System.pdf)
+
+STUDENT was a LISP program that could accept mathematical puzzles in a limited set of English, and solve them.
+
+### Evans (1964) - A Heuristic Program to Solve Geometric-Analogy Problems (ANALOGY)
+[Paper](./Papers/Evans%20(1964)%20-%20A%20Heuristic%20Program%20to%20Solve%20Geometric-Analogy%20Problems.pdf)
+
+ANALOGY was a LISP program designed to solve simple Geometric Analogy problems like '''Figure A is to Figure B as Figure C is to...'''
+
 ### Weizenbaum - ELIZA (1966)
-[Paper](Papers/Weizenabaum%20%281966%29%20-%20ELIZA.pdf)
+[Paper](./Papers/Weizenabaum%20%281966%29%20-%20ELIZA.pdf)
 
 Live version can be found here: https://www.masswerk.at/elizabot/
 
