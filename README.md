@@ -27,6 +27,12 @@ Proved 38 of the first 52 theorems in Russell & Whitehead's Principia Mathematic
 
 Source Code has not been transcribed and doesn't appear to be easily available.
 
+### McCarthy (1959) - Programs with Common Sense (Advice Taker)
+[Paper](Papers/McCarthy%20(1959)%20-%20Programs%20with%20Common%20Sense.pdf)
+
+Early speculative paper on something McCarthy called the "Advice Taker". Possibly the first paper mentioning "Common Sense" in terms of AI.  Also contains an interesting discussion with Bar-Hillel and Selfridge as an appendix.
+
+## Minsky's Classic Overview (1961)
 ### Minsky (1961) - Steps Toward Artificial Intelligence
 [Paper](Papers/Minsky%20(1961)%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf)
 
