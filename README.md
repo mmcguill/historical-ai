@@ -84,3 +84,8 @@ Much more detail on all kinds of ELIZAs here:
 
 - http://elizagen.org/
 - https://github.com/jeffshrager/elizagen
+
+### McCarthy & Hayes 1969 - Some Philosophical Problems from the Standpoint of Artificial Intelligence
+[Paper](./Papers/McCarthy,%20Hayes%20(1969)%20-%20Some%20Philosophical%20Problems%20from%20the%20Standpoint%20of%20Artificial%20Intelligence.pdf)
+
+Detailed and philosophical approach to the problems of AI, trying to develop a mathematical logic approach to it. Discussion of Modal logics of the time as possibly useful.
