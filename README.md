@@ -85,7 +85,19 @@ Much more detail on all kinds of ELIZAs here:
 - http://elizagen.org/
 - https://github.com/jeffshrager/elizagen
 
-### McCarthy & Hayes 1969 - Some Philosophical Problems from the Standpoint of Artificial Intelligence
+### McCarthy & Hayes (1969) - Some Philosophical Problems from the Standpoint of Artificial Intelligence
 [Paper](./Papers/McCarthy,%20Hayes%20(1969)%20-%20Some%20Philosophical%20Problems%20from%20the%20Standpoint%20of%20Artificial%20Intelligence.pdf)
 
 Detailed and philosophical approach to the problems of AI, trying to develop a mathematical logic approach to it. Discussion of Modal logics of the time as possibly useful.
+
+### Reddy (1974) - The HEARSAY Speech Understanding System
+[Paper](./Papers/Reddy%20(1974)%20-%20The%20HEARSAY%20Speech%20Understanding%20System.pdf)
+
+Early speech recognition within a domain (Chess Moves)
+
+### Shortliffe (1975) - A model of inexact reasoning in medicine (The MYCIN system)
+[Paper](./Papers/Shortliffe%20(1975)%20-%20A%20model%20of%20inexact%20reasoning%20in%20medicine.pdf)
+
+# Fun
+### Cadwallader-Cohen (1961) - The Chaostron - An Important Advance in Learning Machines
+[Paper](./Papers/Cadwallader-Cohen%20(1961)%20-%20The%20Chaostron%20-%20An%20Important%20Advance%20in%20Learning%20Machines.pdf)
