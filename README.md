@@ -98,6 +98,12 @@ Early speech recognition within a domain (Chess Moves)
 ### Shortliffe (1975) - A model of inexact reasoning in medicine (The MYCIN system)
 [Paper](./Papers/Shortliffe%20(1975)%20-%20A%20model%20of%20inexact%20reasoning%20in%20medicine.pdf)
 
+### Copycat - Hofstadter & Mitchell (Fluid Analogies Research Group (FARG))
+
+A modern python port of the analogy making program Copycat can be found here:
+
+https://github.com/fargonauts/copycat
+
 # Fun
 ### Cadwallader-Cohen (1961) - The Chaostron - An Important Advance in Learning Machines
 [Paper](./Papers/Cadwallader-Cohen%20(1961)%20-%20The%20Chaostron%20-%20An%20Important%20Advance%20in%20Learning%20Machines.pdf)
