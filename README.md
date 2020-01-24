@@ -104,6 +104,17 @@ A modern python port of the analogy making program Copycat can be found here:
 
 https://github.com/fargonauts/copycat
 
+### SHRDLU - Winograd (1971)
+
+A couple of modern/ports are available on github:
+
+- https://github.com/stuartpb/shrdlu
+- https://github.com/tsgouros/www-shrdlu
+
+Very early natural language understanding system written in Lisp by Terry Winograd. The system manipulates a simple block world by accepting commands in English. The original paper/thesis is available here:
+
+http://hci.stanford.edu/winograd/shrdlu/AITR-235.pdf
+
 # Fun
 ### Cadwallader-Cohen (1961) - The Chaostron - An Important Advance in Learning Machines
 [Paper](./Papers/Cadwallader-Cohen%20(1961)%20-%20The%20Chaostron%20-%20An%20Important%20Advance%20in%20Learning%20Machines.pdf)
