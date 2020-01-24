@@ -90,6 +90,17 @@ Much more detail on all kinds of ELIZAs here:
 
 Detailed and philosophical approach to the problems of AI, trying to develop a mathematical logic approach to it. Discussion of Modal logics of the time as possibly useful.
 
+### SHRDLU - Winograd (1971)
+
+A couple of modern/ports are available on github:
+
+- https://github.com/stuartpb/shrdlu
+- https://github.com/tsgouros/www-shrdlu
+
+Very early natural language understanding system written in Lisp by Terry Winograd. The system manipulates a simple block world by accepting commands in English. The original paper/thesis is available here:
+
+http://hci.stanford.edu/winograd/shrdlu/AITR-235.pdf
+
 ### Reddy (1974) - The HEARSAY Speech Understanding System
 [Paper](./Papers/Reddy%20(1974)%20-%20The%20HEARSAY%20Speech%20Understanding%20System.pdf)
 
@@ -103,17 +114,6 @@ Early speech recognition within a domain (Chess Moves)
 A modern python port of the analogy making program Copycat can be found here:
 
 https://github.com/fargonauts/copycat
-
-### SHRDLU - Winograd (1971)
-
-A couple of modern/ports are available on github:
-
-- https://github.com/stuartpb/shrdlu
-- https://github.com/tsgouros/www-shrdlu
-
-Very early natural language understanding system written in Lisp by Terry Winograd. The system manipulates a simple block world by accepting commands in English. The original paper/thesis is available here:
-
-http://hci.stanford.edu/winograd/shrdlu/AITR-235.pdf
 
 # Fun
 ### Cadwallader-Cohen (1961) - The Chaostron - An Important Advance in Learning Machines
