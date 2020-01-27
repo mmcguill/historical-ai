@@ -2,6 +2,11 @@
 # Historical AI
 A repository to collect papers and programs of historical interest to AI. Mostly gathered while reading Pamela McCorduck's Machines Who Think
 
+### Must Reads (Top Papers)
+
+- [Minsky (1961) - Steps Toward Artificial Intelligence](Papers/Minsky%20(1961)%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf)
+- [McCarthy & Hayes (1969) - Some Philosophical Problems from the Standpoint of Artificial Intelligence](./Papers/McCarthy,%20Hayes%20(1969)%20-%20Some%20Philosophical%20Problems%20from%20the%20Standpoint%20of%20Artificial%20Intelligence.pdf)
+
 ## Beginnings
 
 ### Turing - Computing Machinery and Intelligence (1950)
