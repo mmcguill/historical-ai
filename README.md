@@ -2,8 +2,9 @@
 # Historical AI
 A repository to collect papers and programs of historical interest to AI. Mostly gathered while reading Pamela McCorduck's Machines Who Think
 
-### Must Reads (Top Papers)
+### Must Reads
 
+- [Newell (1965) - Limitations of the Current Stock of Ideas about Problem Solving](./Papers/Newell%20(1965)%20-%20Limitations%20of%20the%20Current%20Stock%20of%20Ideas%20about%20Problem%20Solving.pdf)
 - [Minsky (1961) - Steps Toward Artificial Intelligence](Papers/Minsky%20(1961)%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf)
 - [McCarthy & Hayes (1969) - Some Philosophical Problems from the Standpoint of Artificial Intelligence](./Papers/McCarthy,%20Hayes%20(1969)%20-%20Some%20Philosophical%20Problems%20from%20the%20Standpoint%20of%20Artificial%20Intelligence.pdf)
 
@@ -57,6 +58,8 @@ A more readable paper with emphasis on the comparison between how GPS works vers
 ### 1963 - GPS - A Program That Simulates Human Thought
 [Newell & Simon (1963) - GPS - A Program That Simulates Human Thought](./Papers/Newell%20&%20Simon%20(1963)%20-%20GPS%20-%20A%20Program%20That%20Simulates%20Human%20Thought.pdf)
 
+## Roughly Chronological Highlights
+
 ### Green, Wolf, Chomsky, Laughery (1961) - BASEBALL - An Automatic Question-Answerer
 [Paper](./Papers/Green,%20Wolf,%20Chomsky,%20Laughery%20(1961)%20-%20BASEBALL%20-%20An%20Automatic%20Question-Answerer.pdf)
 
@@ -76,6 +79,14 @@ STUDENT was a LISP program that could accept mathematical puzzles in a limited s
 [Paper](./Papers/Evans%20(1964)%20-%20A%20Heuristic%20Program%20to%20Solve%20Geometric-Analogy%20Problems.pdf)
 
 ANALOGY was a LISP program designed to solve simple Geometric Analogy problems like '''Figure A is to Figure B as Figure C is to...'''
+
+### Newell, Ernst (1965) - The Search for Generality
+[Paper](./Papers/Newell,%20Ernst%20(1965)%20-%20The%20Search%20for%20Generality.pdf)
+
+### Newell (1965) - Limitations of the Current Stock of Ideas about Problem Solving
+[Paper](./Papers/Newell%20(1965)%20-%20Limitations%20of%20the%20Current%20Stock%20of%20Ideas%20about%20Problem%20Solving.pdf)
+
+This is magnificent. Short, concise survey of the known methods of solving problems, and an incisive look at a problem we don't know how we could go about solving/proving, and how we as humans come across the solution from 'out of nowhere'... The example problem is the 'mutilated chess board' checker problem.
 
 ### Weizenbaum - ELIZA (1966)
 [Paper](./Papers/Weizenabaum%20%281966%29%20-%20ELIZA.pdf)
